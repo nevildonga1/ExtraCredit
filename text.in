@@ -1,0 +1,5 @@
+for(int c = 0; c < week.length; c++) {
+
+System.out.print(week[c] + ", ");
+
+}
